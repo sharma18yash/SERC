@@ -1,0 +1,3433 @@
+{
+   "dblpperson": {
+      "person": {
+         "author": [
+            {
+               "_pid": "r/RaghuReddy",
+               "__text": "Y. Raghu Reddy"
+            },
+            {
+               "_pid": "r/RaghuReddy",
+               "__text": "Raghu Reddy"
+            }
+         ],
+         "_key": "homepages/r/RaghuReddy",
+         "_mdate": "2013-06-02"
+      },
+      "r": [
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "293/6645",
+                     "__text": "Raghav Mittal"
+                  },
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Designing Limitless Path in Virtual Reality Environment.",
+               "pages": "80-95",
+               "year": "2021",
+               "booktitle": "HCI (9)",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-030-77599-5_7"
+               ],
+               "crossref": "conf/hci/2021-9",
+               "url": "db/conf/hci/hci2021-9.html#MittalKR21",
+               "_key": "conf/hci/MittalKR21",
+               "_mdate": "2021-07-12"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "291/3748",
+                     "__text": "Mohit Kuri"
+                  },
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Understanding Software Quality Metrics for Virtual Reality Products - A Mapping Study.",
+               "pages": "8:1-8:11",
+               "year": "2021",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/3452383.3452391"
+               ],
+               "crossref": "conf/indiaSE/2021",
+               "url": "db/conf/indiaSE/isec2021.html#KuriKR21",
+               "_key": "conf/indiaSE/KuriKR21",
+               "_mdate": "2021-05-04"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Using project-based approach to teach design patterns: An Experience Report.",
+               "pages": "16:1-16:5",
+               "year": "2021",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/3452383.3452399"
+               ],
+               "crossref": "conf/indiaSE/2021",
+               "url": "db/conf/indiaSE/isec2021.html#KarreSR21",
+               "_key": "conf/indiaSE/KarreSR21",
+               "_mdate": "2021-05-04"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "291/4268",
+                     "__text": "Dhruv Parashar"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "SQL Injection Vulnerability Identification from Text.",
+               "pages": "22:1-22:5",
+               "year": "2021",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/3452383.3452405"
+               ],
+               "crossref": "conf/indiaSE/2021",
+               "url": "db/conf/indiaSE/isec2021.html#ParasharSR21",
+               "_key": "conf/indiaSE/ParasharSR21",
+               "_mdate": "2021-05-04"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "13/6608",
+                     "__text": "Vivek Iyer"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "OntoEnricher: A Deep Learning Approach for Ontology Enrichment from Unstructured Text.",
+               "year": "2021",
+               "volume": "abs/2102.04081",
+               "journal": "CoRR",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "https://arxiv.org/abs/2102.04081"
+                  }
+               ],
+               "url": "db/journals/corr/corr2102.html#abs-2102-04081",
+               "_publtype": "informal",
+               "_key": "journals/corr/abs-2102-04081",
+               "_mdate": "2021-02-10"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "293/6645",
+                     "__text": "Raghav Mittal"
+                  },
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Designing Limitless Path in Virtual Reality Environment.",
+               "year": "2021",
+               "volume": "abs/2105.10720",
+               "journal": "CoRR",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "https://arxiv.org/abs/2105.10720"
+                  }
+               ],
+               "url": "db/journals/corr/corr2105.html#abs-2105-10720",
+               "_publtype": "informal",
+               "_key": "journals/corr/abs-2105-10720",
+               "_mdate": "2021-05-31"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_orcid": "0000-0002-6046-9332",
+                     "_pid": "278/7194",
+                     "__text": "Siddharth Bhatore"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Machine learning techniques for credit risk evaluation: a systematic literature review.",
+               "pages": "111-138",
+               "year": "2020",
+               "volume": "4",
+               "journal": "J. Bank. Financial Technol.",
+               "number": "1",
+               "ee": [
+                  "https://doi.org/10.1007/s42786-020-00020-3"
+               ],
+               "url": "db/journals/jbft/jbft4.html#BhatoreSR20",
+               "_key": "journals/jbft/BhatoreSR20",
+               "_mdate": "2021-06-15"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "279/3275",
+                     "__text": "Mrudhivka Damaraju"
+                  },
+                  {
+                     "_pid": "138/2769",
+                     "__text": "Ravi Shankar Pillutla"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "192/7534",
+                     "__text": "Priya Raman"
+                  }
+               ],
+               "title": "An SE approach for CoCo Learning of Virtual Labs.",
+               "pages": "1-6",
+               "year": "2020",
+               "booktitle": "CSEE&T",
+               "ee": [
+                  "https://doi.org/10.1109/CSEET49119.2020.9206206"
+               ],
+               "crossref": "conf/csee/2020",
+               "url": "db/conf/csee/csee2020.html#SanagavarapuDPC20",
+               "_key": "conf/csee/SanagavarapuDPC20",
+               "_mdate": "2020-11-25"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "269/5924",
+                     "__text": "Shivang Shekar"
+                  },
+                  {
+                     "_pid": "269/6054",
+                     "__text": "Pranav Reddy Pesaladinne"
+                  },
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "VREye: Exploring Human Visual Acuity Test Using Virtual Reality.",
+               "pages": "415-429",
+               "year": "2020",
+               "booktitle": "HCI (11)",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-030-49698-2_28"
+               ],
+               "crossref": "conf/hci/2020-11",
+               "url": "db/conf/hci/hci2020-11.html#ShekarPKR20",
+               "_key": "conf/hci/ShekarPKR20",
+               "_mdate": "2020-07-14"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_orcid": "0000-0003-1741-4851",
+                     "_pid": "141/8540",
+                     "__text": "Gollapudi V. R. J. Sai Prasad"
+                  },
+                  {
+                     "_orcid": "0000-0003-1085-3464",
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "76/1783",
+                     "__text": "Sridhar Chimalakonda"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Promoting better financial inclusion through web page transformation - a systematic literature review.",
+               "pages": "131-147",
+               "year": "2019",
+               "volume": "3",
+               "journal": "J. Bank. Financial Technol.",
+               "number": "2",
+               "ee": [
+                  "https://doi.org/10.1007/s42786-019-00010-0"
+               ],
+               "url": "db/journals/jbft/jbft3.html#PrasadCSCR19",
+               "_key": "journals/jbft/PrasadCSCR19",
+               "_mdate": "2021-09-16"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "255/0434",
+                     "__text": "K. V. Raghavan"
+                  },
+                  {
+                     "_pid": "175/1052",
+                     "__text": "R. D. Naik"
+                  },
+                  {
+                     "_pid": "65/5006",
+                     "__text": "Rahul Purandare"
+                  },
+                  {
+                     "_pid": "93/511",
+                     "__text": "Amey Karkare"
+                  }
+               ],
+               "title": "A report on 1st Software Engineering Research in India Update Meeting (SERI 2019).",
+               "pages": "41-42",
+               "year": "2019",
+               "volume": "44",
+               "journal": "ACM SIGSOFT Softw. Eng. Notes",
+               "number": "3",
+               "ee": [
+                  "https://doi.org/10.1145/3356773.3356805"
+               ],
+               "url": "db/journals/sigsoft/sigsoft44.html#KarreSRRNPK19",
+               "_key": "journals/sigsoft/KarreSRRNPK19",
+               "_mdate": "2020-09-17"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Is Virtual Reality Product Development different?: An Empirical Study on VR Product Development Practices.",
+               "pages": "3:1-3:11",
+               "year": "2019",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/3299771.3299772"
+               ],
+               "crossref": "conf/indiaSE/2019",
+               "url": "db/conf/indiaSE/isec2019.html#KarreMR19",
+               "_key": "conf/indiaSE/KarreMR19",
+               "_mdate": "2019-03-05"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "175/1062",
+                     "__text": "Padmalata Nistala"
+                  },
+                  {
+                     "_pid": "08/11295",
+                     "__text": "Kesav Vithal Nori"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  }
+               ],
+               "title": "Software quality models: a systematic mapping study.",
+               "pages": "125-134",
+               "year": "2019",
+               "booktitle": "ICSSP",
+               "ee": [
+                  "https://doi.org/10.1109/ICSSP.2019.00025",
+                  "https://dl.acm.org/citation.cfm?id=3340011"
+               ],
+               "crossref": "conf/ispw/2019",
+               "url": "db/conf/ispw/icssp2019.html#NistalaNR19",
+               "_key": "conf/ispw/NistalaNR19",
+               "_mdate": "2019-08-29"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "281/2471",
+                     "__text": "Jahfar Ali Pichen"
+                  },
+                  {
+                     "_pid": "281/2532",
+                     "__text": "Syed Mohd Ali Rizwi"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "245/9432",
+                     "__text": "Dipti Sharma"
+                  }
+               ],
+               "title": "Text Cohesion in CQA - Does It Impact Rating?",
+               "pages": "21-31",
+               "year": "2019",
+               "booktitle": "MIKE",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-030-66187-8_3"
+               ],
+               "crossref": "conf/mike/2019",
+               "url": "db/conf/mike/mike2019.html#SanagavarapuPRR19",
+               "_key": "conf/mike/SanagavarapuPRR19",
+               "_mdate": "2020-12-21"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Usability evaluation of VR products in industry: a systematic literature review.",
+               "pages": "1845-1851",
+               "year": "2019",
+               "booktitle": "SAC",
+               "ee": [
+                  "https://doi.org/10.1145/3297280.3297462"
+               ],
+               "crossref": "conf/sac/2019",
+               "url": "db/conf/sac/sac2019.html#KarreMR19",
+               "_key": "conf/sac/KarreMR19",
+               "_mdate": "2019-05-02"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Grouping Semantically Related Change-Sets to Enhance Identification of Logical Coupling.",
+               "pages": "618-777",
+               "year": "2019",
+               "booktitle": "SEKE",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "https://doi.org/10.18293/SEKE2019-166"
+                  }
+               ],
+               "crossref": "conf/seke/2019",
+               "url": "db/conf/seke/seke2019.html#MathurKR19",
+               "_key": "conf/seke/MathurKR19",
+               "_mdate": "2021-02-03"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "138/2769",
+                     "__text": "Ravi Shankar Pillutla"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "258/2268",
+                     "__text": "Avni Jesrani"
+                  },
+                  {
+                     "_pid": "192/7534",
+                     "__text": "Priya Raman"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Towards Massively Open Online Virtual Internships in Computing Education.",
+               "pages": "90-93",
+               "year": "2019",
+               "booktitle": "T4E",
+               "ee": [
+                  "https://doi.org/10.1109/T4E.2019.00-44"
+               ],
+               "crossref": "conf/t4e/2019",
+               "url": "db/conf/t4e/t4e2019.html#PillutlaSCJRR19",
+               "_key": "conf/t4e/PillutlaSCJRR19",
+               "_mdate": "2020-02-11"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "216/7229",
+                     "__text": "Shriyansh Agrawal"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "FACT - Fine grained Assessment of web page CredibiliTy.",
+               "pages": "1088-1097",
+               "year": "2019",
+               "booktitle": "TENCON",
+               "ee": [
+                  "https://doi.org/10.1109/TENCON.2019.8929515"
+               ],
+               "crossref": "conf/tencon/2019",
+               "url": "db/conf/tencon/tencon2019.html#AgrawalSR19",
+               "_key": "conf/tencon/AgrawalSR19",
+               "_mdate": "2019-12-18"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "10/3459",
+                     "__text": "G. R. Gangadharan"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "KIET Framework for Cloud Adoption: Indian Banking Case Study.",
+               "pages": "72-87",
+               "year": "2018",
+               "volume": "8",
+               "journal": "Int. J. Cloud Appl. Comput.",
+               "number": "4",
+               "ee": [
+                  "https://doi.org/10.4018/IJCAC.2018100105"
+               ],
+               "url": "db/journals/ijcac/ijcac8.html#SanagavarapuGR18",
+               "_key": "journals/ijcac/SanagavarapuGR18",
+               "_mdate": "2020-03-31"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "216/7229",
+                     "__text": "Shriyansh Agrawal"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Automated Credibility Assessment of Web Page Based on Genre.",
+               "pages": "155-169",
+               "year": "2018",
+               "booktitle": "BDA",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-030-04780-1_11"
+               ],
+               "crossref": "conf/bigda/2018",
+               "url": "db/conf/bigda/bigda2018.html#AgrawalSR18",
+               "_key": "conf/bigda/AgrawalSR18",
+               "_mdate": "2018-12-11"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Usability Evaluation Framework for Mobile Apps using Code Analysis.",
+               "pages": "187-192",
+               "year": "2018",
+               "booktitle": "EASE",
+               "ee": [
+                  "https://doi.org/10.1145/3210459.3210480"
+               ],
+               "crossref": "conf/ease/2018",
+               "url": "db/conf/ease/ease2018.html#MathurKR18",
+               "_key": "conf/ease/MathurKR18",
+               "_mdate": "2018-11-21"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_orcid": "0000-0003-0745-1042",
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "216/7229",
+                     "__text": "Shriyansh Agrawal"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "SIREN - Security Information Retrieval and Extraction eNgine.",
+               "pages": "811-814",
+               "year": "2018",
+               "booktitle": "ECIR",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-319-76941-7_81"
+               ],
+               "crossref": "conf/ecir/2018",
+               "url": "db/conf/ecir/ecir2018.html#SanagavarapuMAR18",
+               "_key": "conf/ecir/SanagavarapuMAR18",
+               "_mdate": "2018-04-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "214/8651",
+                     "__text": "Sourav Sarangi"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "03/4045",
+                     "__text": "Vasudeva Varma"
+                  }
+               ],
+               "title": "Fine Grained Approach for Domain Specific Seed URL Extraction.",
+               "year": "2018",
+               "booktitle": "HICSS",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "http://hdl.handle.net/10125/50111"
+                  },
+                  "http://aisel.aisnet.org/hicss-51/dsm/data_mining/6"
+               ],
+               "crossref": "conf/hicss/2018",
+               "url": "db/conf/hicss/hicss2018.html#SanagavarapuSRV18",
+               "pages": "1-8",
+               "_key": "conf/hicss/SanagavarapuSRV18",
+               "_mdate": "2019-04-08"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "232/7343",
+                     "__text": "Shadab Ahmad"
+                  },
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "18/2296",
+                     "__text": "Rajarshi Pal"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Rank Aggregation Approach for Identifying Critical Information Infrastructure.",
+               "pages": "1328-1333",
+               "year": "2018",
+               "booktitle": "ICACCI",
+               "ee": [
+                  "https://doi.org/10.1109/ICACCI.2018.8554880"
+               ],
+               "crossref": "conf/icacci/2018",
+               "url": "db/conf/icacci/icacci2018.html#AhmadSPR18",
+               "_key": "conf/icacci/AhmadSPR18",
+               "_mdate": "2019-01-07"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Model Driven Approach for Virtual Lab Authoring - Chemical Sciences Labs.",
+               "pages": "241-243",
+               "year": "2018",
+               "booktitle": "ICALT",
+               "ee": [
+                  "https://doi.org/10.1109/ICALT.2018.00062",
+                  "http://doi.ieeecomputersociety.org/10.1109/ICALT.2018.00062"
+               ],
+               "crossref": "conf/icalt/2018",
+               "url": "db/conf/icalt/icalt2018.html#SanagavarapuCR18",
+               "_key": "conf/icalt/SanagavarapuCR18",
+               "_mdate": "2018-08-23"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Crowdsourcing security: opportunities and challenges.",
+               "pages": "37-40",
+               "year": "2018",
+               "booktitle": "CHASE@ICSE",
+               "ee": [
+                  "https://doi.org/10.1145/3195836.3195862",
+                  "https://ieeexplore.ieee.org/document/8445533"
+               ],
+               "crossref": "conf/icse/2018chase",
+               "url": "db/conf/icse/chase2018.html#SanagavarapuR18",
+               "_key": "conf/icse/SanagavarapuR18",
+               "_mdate": "2021-08-10"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "172/7740",
+                     "__text": "Amar Budhiraja"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_orcid": "0000-0001-8705-6637",
+                     "_pid": "65/3881",
+                     "__text": "Manish Shrivastava 0001"
+                  }
+               ],
+               "title": "LWE: LDA refined word embeddings for duplicate bug report detection.",
+               "pages": "165-166",
+               "year": "2018",
+               "booktitle": "ICSE (Companion Volume)",
+               "ee": [
+                  "https://doi.org/10.1145/3183440.3195078",
+                  "https://ieeexplore.ieee.org/document/8449482"
+               ],
+               "crossref": "conf/icse/2018c",
+               "url": "db/conf/icse/icse2018c.html#BudhirajaRS18",
+               "_key": "conf/icse/BudhirajaRS18",
+               "_mdate": "2021-08-10"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "172/7740",
+                     "__text": "Amar Budhiraja"
+                  },
+                  {
+                     "_pid": "193/4957",
+                     "__text": "Kartik Dutta"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_orcid": "0000-0001-8705-6637",
+                     "_pid": "65/3881",
+                     "__text": "Manish Shrivastava 0001"
+                  }
+               ],
+               "title": "DWEN: deep word embedding network for duplicate bug report detection in software repositories.",
+               "pages": "193-194",
+               "year": "2018",
+               "booktitle": "ICSE (Companion Volume)",
+               "ee": [
+                  "https://doi.org/10.1145/3183440.3195092",
+                  "https://ieeexplore.ieee.org/document/8449496"
+               ],
+               "crossref": "conf/icse/2018c",
+               "url": "db/conf/icse/icse2018c.html#BudhirajaDRS18",
+               "_key": "conf/icse/BudhirajaDRS18",
+               "_mdate": "2021-08-10"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "172/7740",
+                     "__text": "Amar Budhiraja"
+                  },
+                  {
+                     "_pid": "193/4957",
+                     "__text": "Kartik Dutta"
+                  },
+                  {
+                     "_orcid": "0000-0001-8705-6637",
+                     "_pid": "65/3881",
+                     "__text": "Manish Shrivastava 0001"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  }
+               ],
+               "title": "Towards Word Embeddings for Improved Duplicate Bug Report Retrieval in Software Repositories.",
+               "pages": "167-170",
+               "year": "2018",
+               "booktitle": "ICTIR",
+               "ee": [
+                  "https://doi.org/10.1145/3234944.3234949"
+               ],
+               "crossref": "conf/ictir/2018",
+               "url": "db/conf/ictir/ictir2018.html#BudhirajaDSR18",
+               "_key": "conf/ictir/BudhirajaDSR18",
+               "_mdate": "2021-04-09"
+            }
+         },
+         {
+            "proceedings": {
+               "editor": [
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "03/4045",
+                     "__text": "Vasudeva Varma"
+                  },
+                  {
+                     "_pid": "c/JaneClelandHuang",
+                     "__text": "Jane Cleland-Huang"
+                  },
+                  {
+                     "_pid": "54/4697",
+                     "__text": "Umesh Bellur"
+                  },
+                  {
+                     "_pid": "214/7087",
+                     "__text": "Shubashsis Sengupta"
+                  },
+                  {
+                     "_pid": "23/1972",
+                     "__text": "Naveen Sharma"
+                  },
+                  {
+                     "_pid": "136/4557",
+                     "__text": "Ramesh Loganathan"
+                  },
+                  {
+                     "_pid": "86/11292",
+                     "__text": "Richa Sharma"
+                  },
+                  {
+                     "_pid": "00/1826",
+                     "__text": "Santonu Sarkar"
+                  }
+               ],
+               "title": "Proceedings of the 11th Innovations in Software Engineering Conference, ISEC 2018, Hyderabad, India, February 09 - 11, 2018",
+               "booktitle": "ISECX",
+               "publisher": "ACM",
+               "year": "2018",
+               "ee": [
+                  "https://doi.org/10.1145/3172871"
+               ],
+               "url": "db/conf/indiaSE/isec2018.html",
+               "_key": "conf/indiaSE/2018",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "k/DaeKyooKim",
+                     "__text": "Dae-Kyoo Kim"
+                  },
+                  {
+                     "_pid": "02/3874",
+                     "__text": "Eunjee Song"
+                  },
+                  {
+                     "_pid": "93/3986",
+                     "__text": "Jungwoo Ryoo"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Special issue on software reuse.",
+               "pages": "941-942",
+               "year": "2017",
+               "volume": "47",
+               "journal": "Softw. Pract. Exp.",
+               "number": "7",
+               "ee": [
+                  "https://doi.org/10.1002/spe.2504"
+               ],
+               "url": "db/journals/spe/spe47.html#KimSRR17",
+               "_key": "journals/spe/KimSRR17",
+               "_mdate": "2020-04-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_orcid": "0000-0002-0764-2650",
+                     "_pid": "10/3459",
+                     "__text": "G. R. Gangadharan"
+                  }
+               ],
+               "title": "Compac - A pricing model for community cloud.",
+               "pages": "2033-2039",
+               "year": "2017",
+               "booktitle": "ICACCI",
+               "ee": [
+                  "https://doi.org/10.1109/ICACCI.2017.8126144",
+                  "https://www.wikidata.org/entity/Q57634943"
+               ],
+               "crossref": "conf/icacci/2017",
+               "url": "db/conf/icacci/icacci2017.html#SRG17",
+               "_key": "conf/icacci/SRG17",
+               "_mdate": "2019-09-16"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_orcid": "0000-0003-0745-1042",
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan Sanagavarapu"
+                  },
+                  {
+                     "_pid": "214/8651",
+                     "__text": "Sourav Sarangi"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "ABC Algorithm for URL Extraction.",
+               "pages": "143-148",
+               "year": "2017",
+               "booktitle": "ICWE Workshops",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-319-74433-9_12"
+               ],
+               "crossref": "conf/icwe/2017w",
+               "url": "db/conf/icwe/icwe2017w.html#SanagavarapuSR17",
+               "_key": "conf/icwe/SanagavarapuSR17",
+               "_mdate": "2018-03-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "141/8540",
+                     "__text": "Gollapudi V. R. J. Sai Prasad"
+                  },
+                  {
+                     "_pid": "76/1783",
+                     "__text": "Sridhar Chimalakonda"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "An Aspect Oriented Approach for Renarrating Web Content.",
+               "pages": "56-65",
+               "year": "2017",
+               "booktitle": "ISEC",
+               "ee": [
+                  "http://dl.acm.org/citation.cfm?id=3021466"
+               ],
+               "crossref": "conf/indiaSE/2017",
+               "url": "db/conf/indiaSE/isec2017.html#PrasadCCR17",
+               "_key": "conf/indiaSE/PrasadCCR17",
+               "_mdate": "2017-01-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "175/4082",
+                     "__text": "Yogesh Maheshwari"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "A study on Migrating Flash files to HTML5/JavaScript.",
+               "pages": "112-116",
+               "year": "2017",
+               "booktitle": "ISEC",
+               "ee": [
+                  "http://dl.acm.org/citation.cfm?id=3021472"
+               ],
+               "crossref": "conf/indiaSE/2017",
+               "url": "db/conf/indiaSE/isec2017.html#MaheshwariR17",
+               "_key": "conf/indiaSE/MaheshwariR17",
+               "_mdate": "2017-01-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "175/1082",
+                     "__text": "Shivam Khandelwal"
+                  },
+                  {
+                     "_pid": "167/1244",
+                     "__text": "Saikrishna Sripada"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Impact of Gamification on Code review process: An Experimental Study.",
+               "pages": "122-126",
+               "year": "2017",
+               "booktitle": "ISEC",
+               "ee": [
+                  "http://dl.acm.org/citation.cfm?id=3021474"
+               ],
+               "crossref": "conf/indiaSE/2017",
+               "url": "db/conf/indiaSE/isec2017.html#KhandelwalSR17",
+               "_key": "conf/indiaSE/KhandelwalSR17",
+               "_mdate": "2017-01-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "192/7534",
+                     "__text": "Priya Raman"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "A Crowdsourcing Approach for Quality Enhancement of eLearning Systems.",
+               "pages": "188-194",
+               "year": "2017",
+               "booktitle": "ISEC",
+               "ee": [
+                  "http://dl.acm.org/citation.cfm?id=3021483"
+               ],
+               "crossref": "conf/indiaSE/2017",
+               "url": "db/conf/indiaSE/isec2017.html#SRCR17",
+               "_key": "conf/indiaSE/SRCR17",
+               "_mdate": "2017-01-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "51/3678",
+                     "__text": "Vinay Kulkarni"
+                  }
+               ],
+               "title": "Modelling Symposium (ModSym).",
+               "pages": "223-224",
+               "year": "2017",
+               "booktitle": "ISEC",
+               "ee": [
+                  "http://dl.acm.org/citation.cfm?id=3021496"
+               ],
+               "crossref": "conf/indiaSE/2017",
+               "url": "db/conf/indiaSE/isec2017.html#ReddyK17",
+               "_key": "conf/indiaSE/ReddyK17",
+               "_mdate": "2017-01-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Sanagavarapu"
+                  },
+                  {
+                     "_pid": "141/8540",
+                     "__text": "Sai Gollapudi"
+                  },
+                  {
+                     "_orcid": "0000-0003-0818-8178",
+                     "_pid": "76/1783",
+                     "__text": "Sridhar Chimalakonda"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  }
+               ],
+               "title": "A Lightweight Approach for Evaluating Sufficiency of Ontologies.",
+               "pages": "557-561",
+               "year": "2017",
+               "booktitle": "SEKE",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "https://doi.org/10.18293/SEKE2017-185"
+                  }
+               ],
+               "crossref": "conf/seke/2017",
+               "url": "db/conf/seke/seke2017.html#SanagavarapuGCR17",
+               "_key": "conf/seke/SanagavarapuGCR17",
+               "_mdate": "2021-02-03"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "202/2542",
+                     "__text": "Anveshi Shukla"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Does your Bug Tracking tool suit your needs? A Study on Open Source Bug Tracking tools.",
+               "year": "2017",
+               "volume": "abs/1706.06799",
+               "journal": "CoRR",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "http://arxiv.org/abs/1706.06799"
+                  }
+               ],
+               "url": "db/journals/corr/corr1706.html#KarreSR17",
+               "_publtype": "informal",
+               "_key": "journals/corr/KarreSR17",
+               "_mdate": "2018-08-13"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "167/1244",
+                     "__text": "Saikrishna Sripada"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "175/1082",
+                     "__text": "Shivam Khandelwal"
+                  }
+               ],
+               "title": "Architecting an extensible framework for Gamifying Software Engineering concepts.",
+               "pages": "119-130",
+               "year": "2016",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/2856636.2856649"
+               ],
+               "crossref": "conf/indiaSE/2016",
+               "url": "db/conf/indiaSE/isec2016.html#SripadaRK16",
+               "_key": "conf/indiaSE/SripadaRK16",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "proceedings": {
+               "editor": [
+                  {
+                     "_pid": "67/103",
+                     "__text": "Atul Kumar"
+                  },
+                  {
+                     "_pid": "51/3678",
+                     "__text": "Vinay Kulkarni"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "86/10957",
+                     "__text": "Meenakshi D'Souza"
+                  },
+                  {
+                     "_pid": "54/5083",
+                     "__text": "Swarup Mohalik"
+                  },
+                  {
+                     "_pid": "177/5630",
+                     "__text": "Mahesh Babu Jayaraman"
+                  }
+               ],
+               "title": "Joint Proceedings of the 2nd Modelling Symposium (ModSym) and the Workshop on Software Architectures for Adaptive Autonomous Systems (SAAAS) co-located with the 9th India Software Engineering Conference (ISEC 2016), Goa, India, February 18, 2016.",
+               "booktitle": "ModSym+SAAAS@ISEC",
+               "publisher": "CEUR-WS.org",
+               "series": {
+                  "_href": "db/series/ceurws/index.html",
+                  "__text": "CEUR Workshop Proceedings"
+               },
+               "volume": "1561",
+               "year": "2016",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "http://ceur-ws.org/Vol-1561"
+                  },
+                  "https://nbn-resolving.org/urn:nbn:de:0074-1561-0"
+               ],
+               "url": "db/conf/indiaSE/modsym-saaas2016.html",
+               "_key": "conf/indiaSE/2016modsym-saaas",
+               "_mdate": "2020-02-12"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "s/AshishSureka",
+                     "__text": "Ashish Sureka"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "05/6380",
+                     "__text": "Pornsiri Muenchaisri"
+                  },
+                  {
+                     "_pid": "06/4286",
+                     "__text": "Masateru Tsunoda"
+                  }
+               ],
+               "title": "A Report on Software Engineering Education Workshop (SEEW) 2014 Co-Located with Asia-Pacific Software Engineering Conference 2014.",
+               "pages": "40-43",
+               "year": "2015",
+               "volume": "40",
+               "journal": "ACM SIGSOFT Softw. Eng. Notes",
+               "number": "1",
+               "ee": [
+                  "https://doi.org/10.1145/2693208.2693250"
+               ],
+               "url": "db/journals/sigsoft/sigsoft40.html#SurekaRMT15",
+               "_key": "journals/sigsoft/SurekaRMT15",
+               "_mdate": "2020-09-17"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "76/1783",
+                     "__text": "Sridhar Chimalakonda"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "00/6395",
+                     "__text": "Rakesh Shukla"
+                  }
+               ],
+               "title": "Moving Beyond: Insights from 1st International Workshop on Software Engineering Research and Industrial Practices (SER&IPs 2014).",
+               "pages": "28-31",
+               "year": "2015",
+               "volume": "40",
+               "journal": "ACM SIGSOFT Softw. Eng. Notes",
+               "number": "2",
+               "ee": [
+                  "https://doi.org/10.1145/2735399.2735418"
+               ],
+               "url": "db/journals/sigsoft/sigsoft40.html#ChimalakondaRS15",
+               "_key": "journals/sigsoft/ChimalakondaRS15",
+               "_mdate": "2020-09-17"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "An Industrial Case Study on Improving Quality in Integrated Software Product using defect dependency.",
+               "pages": "1-8",
+               "year": "2015",
+               "booktitle": "QuASoQ/WAWSE/CMCE@APSEC",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "http://ceur-ws.org/Vol-1519/paper1.pdf"
+                  }
+               ],
+               "crossref": "conf/apsec/2015quasoq",
+               "url": "db/conf/apsec/quasoq2015.html#KarreR15",
+               "_key": "conf/apsec/KarreR15",
+               "_mdate": "2019-05-28"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Correctness of Semantic Code Smell Detection Tools.",
+               "pages": "17-22",
+               "year": "2015",
+               "booktitle": "QuASoQ/WAWSE/CMCE@APSEC",
+               "ee": [
+                  {
+                     "_type": "oa",
+                     "__text": "http://ceur-ws.org/Vol-1519/paper3.pdf"
+                  }
+               ],
+               "crossref": "conf/apsec/2015quasoq",
+               "url": "db/conf/apsec/quasoq2015.html#MathurR15",
+               "_key": "conf/apsec/MathurR15",
+               "_mdate": "2019-05-28"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "175/4082",
+                     "__text": "Yogesh Maheshwari"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Transformation of Flash files to HTML5 and JavaScript.",
+               "pages": "23-27",
+               "year": "2015",
+               "booktitle": "ASWEC (2)",
+               "ee": [
+                  "https://doi.org/10.1145/2811681.2811686"
+               ],
+               "crossref": "conf/aswec/2015-2",
+               "url": "db/conf/aswec/aswec2015-2.html#MaheshwariR15",
+               "_key": "conf/aswec/MaheshwariR15",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "167/1244",
+                     "__text": "Saikrishna Sripada"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Code Comprehension Activities in Undergraduate Software Engineering Course - A Case Study.",
+               "pages": "68-77",
+               "year": "2015",
+               "booktitle": "ASWEC",
+               "ee": [
+                  "https://doi.org/10.1109/ASWEC.2015.18",
+                  "http://doi.ieeecomputersociety.org/10.1109/ASWEC.2015.18"
+               ],
+               "crossref": "conf/aswec/2015",
+               "url": "db/conf/aswec/aswec2015.html#SripadaR15",
+               "_key": "conf/aswec/SripadaR15",
+               "_mdate": "2017-05-24"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "167/1244",
+                     "__text": "Saikrishna Sripada"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "s/AshishSureka",
+                     "__text": "Ashish Sureka"
+                  }
+               ],
+               "title": "In Support of Peer Code Review and Inspection in an Undergraduate Software Engineering Course.",
+               "pages": "3-6",
+               "year": "2015",
+               "booktitle": "CSEE&T",
+               "ee": [
+                  "https://doi.org/10.1109/CSEET.2015.8",
+                  "http://doi.ieeecomputersociety.org/10.1109/CSEET.2015.8"
+               ],
+               "crossref": "conf/csee/2015",
+               "url": "db/conf/csee/csee2015.html#SripadaRS15",
+               "_key": "conf/csee/SripadaRS15",
+               "_mdate": "2017-05-17"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Heuristic Approaches to Improve Product Quality in Large Scale Integrated Software Products.",
+               "pages": "80-97",
+               "year": "2015",
+               "booktitle": "ENASE (Selected Papers)",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-319-30243-0_5"
+               ],
+               "crossref": "conf/enase/2015s",
+               "url": "db/conf/enase/enase2015s.html#KarreR15a",
+               "_key": "conf/enase/KarreR15a",
+               "_mdate": "2017-05-19"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "A Defect Dependency based Approach to Improve Software Quality in Integrated Software Products.",
+               "pages": "110-117",
+               "year": "2015",
+               "booktitle": "ENASE",
+               "ee": [
+                  "https://doi.org/10.5220/0005368801100117",
+                  "https://ieeexplore.ieee.org/document/7320343/"
+               ],
+               "crossref": "conf/enase/2015",
+               "url": "db/conf/enase/enase2015.html#KarreR15",
+               "_key": "conf/enase/KarreR15",
+               "_mdate": "2021-08-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Improving Mobile Banking Usability Based on Sentiments.",
+               "pages": "180-194",
+               "year": "2015",
+               "booktitle": "ENASE (Selected Papers)",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-319-30243-0_10"
+               ],
+               "crossref": "conf/enase/2015s",
+               "url": "db/conf/enase/enase2015s.html#MohanMR15a",
+               "_key": "conf/enase/MohanMR15a",
+               "_mdate": "2017-05-19"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  {
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Mobile App Usability Index (MAUI) for Improving Mobile Banking Adoption.",
+               "pages": "313-320",
+               "year": "2015",
+               "booktitle": "ENASE",
+               "ee": [
+                  "https://doi.org/10.5220/0005363003130320",
+                  "https://ieeexplore.ieee.org/document/7320375/"
+               ],
+               "crossref": "conf/enase/2015",
+               "url": "db/conf/enase/enase2015.html#MohanMR15",
+               "_key": "conf/enase/MohanMR15",
+               "_mdate": "2021-08-09"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "158/5798",
+                     "__text": "Prabhakar Cherukupalli"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Reengineering Enterprise Wide Legacy BFSI Systems: Industrial case study.",
+               "pages": "40-49",
+               "year": "2015",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/2723742.2723746"
+               ],
+               "crossref": "conf/indiaSE/2015",
+               "url": "db/conf/indiaSE/isec2015.html#CherukupalliR15",
+               "_key": "conf/indiaSE/CherukupalliR15",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "51/3678",
+                     "__text": "Vinay Kulkarni"
+                  }
+               ],
+               "title": "A Report on Modelling Symposium (ModSym).",
+               "pages": "204-205",
+               "year": "2015",
+               "booktitle": "ISEC",
+               "ee": [
+                  "https://doi.org/10.1145/2723742.2723770"
+               ],
+               "crossref": "conf/indiaSE/2015",
+               "url": "db/conf/indiaSE/isec2015.html#ReddyK15",
+               "_key": "conf/indiaSE/ReddyK15",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "165/3804",
+                     "__text": "Anish Shankar"
+                  },
+                  {
+                     "_pid": "165/3789",
+                     "__text": "Madhavan Chetlur"
+                  }
+               ],
+               "title": "Incremental aspect weaving: an approach for faster AOP learning.",
+               "pages": "1480-1485",
+               "year": "2015",
+               "booktitle": "SAC",
+               "ee": [
+                  "https://doi.org/10.1145/2695664.2695688"
+               ],
+               "crossref": "conf/sac/2015",
+               "url": "db/conf/sac/sac2015.html#ReddySC15",
+               "_key": "conf/sac/ReddySC15",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "proceedings": {
+               "editor": [
+                  {
+                     "_pid": "s/JingSun2",
+                     "__text": "Jing Sun 0002"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "07/2190",
+                     "__text": "Arun Bahulkar"
+                  },
+                  {
+                     "_pid": "69/2282",
+                     "__text": "Anjaneyulu Pasala"
+                  }
+               ],
+               "title": "2015 Asia-Pacific Software Engineering Conference, APSEC 2015, New Delhi, India, December 1-4, 2015",
+               "booktitle": "APSEC",
+               "publisher": "IEEE Computer Society",
+               "year": "2015",
+               "isbn": "978-1-4673-9644-8",
+               "ee": [
+                  "https://ieeexplore.ieee.org/xpl/conhome/7467057/proceeding",
+                  "https://www.computer.org/csdl/proceedings/apsec/2015/9644/00/index.html"
+               ],
+               "url": "db/conf/apsec/apsec2015.html",
+               "_key": "conf/apsec/2015",
+               "_mdate": "2019-10-16"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "08/11295",
+                     "__text": "Kesav V. Nori"
+                  }
+               ],
+               "title": "Teaching software product engineering in undergraduate computing curriculum.",
+               "pages": "175-178",
+               "year": "2014",
+               "booktitle": "CSEE&T",
+               "ee": [
+                  "https://doi.org/10.1109/CSEET.2014.6816798",
+                  "http://doi.ieeecomputersociety.org/10.1109/CSEET.2014.6816798"
+               ],
+               "crossref": "conf/csee/2014",
+               "url": "db/conf/csee/csee2014.html#ReddyN14",
+               "_key": "conf/csee/ReddyN14",
+               "_mdate": "2017-05-17"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "128/3143",
+                     "__text": "Sonal Aggarwal"
+                  },
+                  {
+                     "_pid": "13/3988",
+                     "__text": "Herre van Oostendorp"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "92/1551",
+                     "__text": "Bipin Indurkhya"
+                  }
+               ],
+               "title": "Providing Web Credibility Assessment Support.",
+               "pages": "29: 1-29: 8",
+               "year": "2014",
+               "booktitle": "ECCE",
+               "ee": [
+                  "https://doi.org/10.1145/2637248.2637260"
+               ],
+               "crossref": "conf/ecce/2014",
+               "url": "db/conf/ecce/ecce2014.html#AggarwalORI14",
+               "_key": "conf/ecce/AggarwalORI14",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "157/1351",
+                     "__text": "Nurendra Choudhary"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "157/1251",
+                     "__text": "Thirumal Ravula"
+                  }
+               ],
+               "title": "Any Time Virtual Labs: On Portable Media and as Debian Packages.",
+               "pages": "28-31",
+               "year": "2014",
+               "booktitle": "T4E",
+               "ee": [
+                  "https://doi.org/10.1109/T4E.2014.9",
+                  "http://doi.ieeecomputersociety.org/10.1109/T4E.2014.9"
+               ],
+               "crossref": "conf/t4e/2014",
+               "url": "db/conf/t4e/t4e2014.html#ChoudharyCRR14",
+               "_key": "conf/t4e/ChoudharyCRR14",
+               "_mdate": "2017-05-21"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "69/10948",
+                     "__text": "Jatin Agarwal"
+                  },
+                  {
+                     "_pid": "157/1289",
+                     "__text": "Utkarsh Rastogiy"
+                  },
+                  {
+                     "_pid": "36/11103",
+                     "__text": "Prateek Pandey"
+                  },
+                  {
+                     "_pid": "157/1351",
+                     "__text": "Nurendra Choudhary"
+                  },
+                  {
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  }
+               ],
+               "title": "Large Scale Web Page Optimization of Virtual Labs.",
+               "pages": "146-147",
+               "year": "2014",
+               "booktitle": "T4E",
+               "ee": [
+                  "https://doi.org/10.1109/T4E.2014.51",
+                  "http://doi.ieeecomputersociety.org/10.1109/T4E.2014.51"
+               ],
+               "crossref": "conf/t4e/2014",
+               "url": "db/conf/t4e/t4e2014.html#AgarwalRPCCR14",
+               "_key": "conf/t4e/AgarwalRPCCR14",
+               "_mdate": "2017-05-21"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "157/9220",
+                     "__text": "Mohammad Asif"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "JIFFY: A framework for encompassing aspects in testing and debugging software.",
+               "pages": "146-149",
+               "year": "2013",
+               "booktitle": "AST",
+               "ee": [
+                  "https://doi.org/10.1109/IWAST.2013.6595806",
+                  "http://doi.ieeecomputersociety.org/10.1109/IWAST.2013.6595806",
+                  "http://dl.acm.org/citation.cfm?id=2662445"
+               ],
+               "crossref": "conf/icse/2013ast",
+               "url": "db/conf/icse/ast2013.html#AsifR13",
+               "_key": "conf/icse/AsifR13",
+               "_mdate": "2017-05-23"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_orcid": "0000-0001-6858-6755",
+                     "_pid": "22/9054",
+                     "__text": "Pablo D. Mininni"
+                  },
+                  {
+                     "_pid": "85/9816",
+                     "__text": "Duane Rosenberg"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "19/9817",
+                     "__text": "Annick Pouquet"
+                  }
+               ],
+               "title": "A hybrid MPI-OpenMP scheme for scalable parallel pseudospectral computations for fluid turbulence.",
+               "pages": "316-326",
+               "year": "2011",
+               "volume": "37",
+               "journal": "Parallel Comput.",
+               "number": "6-7",
+               "ee": [
+                  "https://doi.org/10.1016/j.parco.2011.05.004",
+                  "https://www.wikidata.org/entity/Q57556247"
+               ],
+               "url": "db/journals/pc/pc37.html#MininniRRP11",
+               "_key": "journals/pc/MininniRRP11",
+               "_mdate": "2020-02-22"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "75/1631",
+                     "__text": "Devon M. Simmonds"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "02/3874",
+                     "__text": "Eunjee Song"
+                  },
+                  {
+                     "_pid": "05/1976",
+                     "__text": "Emanuel S. Grant"
+                  }
+               ],
+               "title": "A Comparison of Aspect-Oriented Approaches to Model Driven Engineering.",
+               "pages": "327-333",
+               "year": "2009",
+               "booktitle": "Software Engineering Research and Practice",
+               "crossref": "conf/serp/2009",
+               "url": "db/conf/serp/serp2009.html#SimmondsRSG09",
+               "_key": "conf/serp/SimmondsRSG09",
+               "_mdate": "2010-03-01"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "50/7507",
+                     "__text": "Varsha Rathod"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  }
+               ],
+               "title": "Role of Early Aspects in Software Maintenance Projects.",
+               "pages": "550-555",
+               "year": "2009",
+               "booktitle": "Software Engineering Research and Practice",
+               "crossref": "conf/serp/2009",
+               "url": "db/conf/serp/serp2009.html#RathodR09",
+               "_key": "conf/serp/RathodR09",
+               "_mdate": "2009-11-05"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "45/5440",
+                     "__text": "Brian Henderson-Sellers"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  },
+                  {
+                     "_pid": "66/1355",
+                     "__text": "Geri Georg"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  }
+               ],
+               "title": "A method engineering approach to developing aspect-oriented modelling processes based on the OPEN process framework.",
+               "pages": "761-773",
+               "year": "2007",
+               "volume": "49",
+               "journal": "Inf. Softw. Technol.",
+               "number": "7",
+               "ee": [
+                  "https://doi.org/10.1016/j.infsof.2006.08.003"
+               ],
+               "url": "db/journals/infsof/infsof49.html#Henderson-SellersFGR07",
+               "_key": "journals/infsof/Henderson-SellersFGR07",
+               "_mdate": "2020-02-20"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  },
+                  {
+                     "_pid": "27/513",
+                     "__text": "Franck Fleurey"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "57/3320",
+                     "__text": "Benoit Baudry"
+                  },
+                  {
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  }
+               ],
+               "title": "Providing Support for Model Composition in Metamodels.",
+               "pages": "253-266",
+               "year": "2007",
+               "crossref": "conf/edoc/2007",
+               "booktitle": "EDOC",
+               "ee": [
+                  "https://doi.org/10.1109/EDOC.2007.55",
+                  "http://doi.ieeecomputersociety.org/10.1109/EDOC.2007.55"
+               ],
+               "url": "db/conf/edoc/edoc2007.html#FranceFRBG07",
+               "_key": "conf/edoc/FranceFRBG07",
+               "_mdate": "2017-05-17"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "46/2753",
+                     "__text": "Arnor Solberg"
+                  },
+                  {
+                     "_pid": "75/1631",
+                     "__text": "Devon M. Simmonds"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  },
+                  {
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  },
+                  {
+                     "_pid": "48/1767",
+                     "__text": "Jan Øyvind Aagedal"
+                  }
+               ],
+               "title": "Developing Distributed Services Using an Aspect Oriented Model Driven Framework.",
+               "pages": "535-564",
+               "year": "2006",
+               "volume": "15",
+               "journal": "Int. J. Cooperative Inf. Syst.",
+               "number": "4",
+               "ee": [
+                  "https://doi.org/10.1142/S0218843006001487"
+               ],
+               "url": "db/journals/ijcis/ijcis15.html#SolbergSRFGA06",
+               "_key": "journals/ijcis/SolbergSRFGA06",
+               "_mdate": "2017-05-18"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Y. Raghu Reddy"
+                  },
+                  {
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  },
+                  {
+                     "_pid": "16/877",
+                     "__text": "Greg Straw"
+                  },
+                  {
+                     "_pid": "b/JamesMBieman",
+                     "__text": "James M. Bieman"
+                  },
+                  {
+                     "_pid": "08/4728",
+                     "__text": "Nathan McEachen"
+                  },
+                  {
+                     "_pid": "02/3874",
+                     "__text": "Eunjee Song"
+                  },
+                  {
+                     "_pid": "66/1355",
+                     "__text": "Geri Georg"
+                  }
+               ],
+               "title": "Directives for Composing Aspect-Oriented Design Class Models.",
+               "pages": "75-105",
+               "year": "2006",
+               "crossref": "journals/taosd/2006-1",
+               "volume": "1",
+               "journal": "LNCS Trans. Aspect Oriented Softw. Dev.",
+               "ee": [
+                  "https://doi.org/10.1007/11687061_3"
+               ],
+               "url": "db/journals/taosd/taosd1.html#ReddyGFSBMSG06",
+               "_key": "journals/taosd/ReddyGFSBMSG06",
+               "_mdate": "2021-02-02"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "46/2753",
+                     "__text": "Arnor Solberg"
+                  },
+                  {
+                     "_pid": "75/1631",
+                     "__text": "Devon M. Simmonds"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  }
+               ],
+               "title": "Using Aspect Oriented Techniques to Support Separation of Concerns in Model Driven Development.",
+               "pages": "121-126",
+               "year": "2005",
+               "crossref": "conf/compsac/2005",
+               "booktitle": "COMPSAC (1)",
+               "ee": [
+                  "https://doi.org/10.1109/COMPSAC.2005.168",
+                  "http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2005.168"
+               ],
+               "url": "db/conf/compsac/compsac2005-1.html#SolbergSRGF05",
+               "_key": "conf/compsac/SolbergSRGF05",
+               "_mdate": "2017-05-21"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "75/1631",
+                     "__text": "Devon M. Simmonds"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  },
+                  {
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  },
+                  {
+                     "_pid": "46/2753",
+                     "__text": "Arnor Solberg"
+                  }
+               ],
+               "title": "An Aspect Oriented Model Driven Framework.",
+               "pages": "119-130",
+               "year": "2005",
+               "crossref": "conf/edoc/2005",
+               "booktitle": "EDOC",
+               "ee": [
+                  "https://doi.org/10.1109/EDOC.2005.5",
+                  "http://doi.ieeecomputersociety.org/10.1109/EDOC.2005.5"
+               ],
+               "url": "db/conf/edoc/edoc2005.html#SimmondsRFGS05",
+               "_key": "conf/edoc/SimmondsRFGS05",
+               "_mdate": "2017-05-17"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "02/3874",
+                     "__text": "Eunjee Song"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  },
+                  {
+                     "_pid": "r/IndrakshiRay",
+                     "__text": "Indrakshi Ray"
+                  },
+                  {
+                     "_pid": "66/1355",
+                     "__text": "Geri Georg"
+                  },
+                  {
+                     "_pid": "60/5998",
+                     "__text": "Roger T. Alexander"
+                  }
+               ],
+               "title": "Verifiable composition of access control and application features.",
+               "pages": "120-129",
+               "year": "2005",
+               "crossref": "conf/sacmat/2005",
+               "booktitle": "SACMAT",
+               "ee": [
+                  "https://doi.org/10.1145/1063979.1064001"
+               ],
+               "url": "db/conf/sacmat/sacmat2005.html#SongRFRGA05",
+               "_key": "conf/sacmat/SongRFRGA05",
+               "_mdate": "2018-11-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "66/1355",
+                     "__text": "Geri Georg"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  },
+                  {
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  }
+               ],
+               "title": "Specifying Cross-Cutting Requirement Concerns.",
+               "pages": "113-127",
+               "ee": [
+                  "https://doi.org/10.1007/978-3-540-30187-5_9"
+               ],
+               "year": "2004",
+               "crossref": "conf/uml/2004",
+               "booktitle": "UML",
+               "url": "db/conf/uml/uml2004.html#GeorgRF04",
+               "_key": "conf/uml/GeorgRF04",
+               "_mdate": "2017-05-24"
+            }
+         },
+         {
+            "article": {
+               "author": [
+                  {
+                     "_pid": "00/3534",
+                     "__text": "Matthew Mathis"
+                  },
+                  {
+                     "_pid": "65/2252",
+                     "__text": "John Heffner"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  }
+               ],
+               "title": "Web100: extended TCP instrumentation for research, education and diagnosis.",
+               "pages": "69-79",
+               "year": "2003",
+               "volume": "33",
+               "journal": "Comput. Commun. Rev.",
+               "number": "3",
+               "ee": [
+                  "https://doi.org/10.1145/956993.957002"
+               ],
+               "url": "db/journals/ccr/ccr33.html#MathisHR03",
+               "_key": "journals/ccr/MathisHR03",
+               "_mdate": "2020-09-06"
+            }
+         },
+         {
+            "inproceedings": {
+               "author": [
+                  {
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  },
+                  {
+                     "_pid": "93/2824",
+                     "__text": "Nishant Bawa"
+                  },
+                  {
+                     "_pid": "49/809",
+                     "__text": "Sameer Goel"
+                  },
+                  {
+                     "_pid": "r/RaghuReddy",
+                     "__text": "Raghu Reddy"
+                  }
+               ],
+               "title": "Validating Run-time Interactions in Distributed Java Applications.",
+               "pages": "7-16",
+               "year": "2002",
+               "crossref": "conf/iceccs/2002",
+               "booktitle": "ICECCS",
+               "ee": [
+                  "https://doi.org/10.1109/ICECCS.2002.1181493",
+                  "http://doi.ieeecomputersociety.org/10.1109/ICECCS.2002.1181493"
+               ],
+               "url": "db/conf/iceccs/iceccs2002.html#GhoshBGR02",
+               "_key": "conf/iceccs/GhoshBGR02",
+               "_mdate": "2017-05-26"
+            }
+         }
+      ],
+      "coauthors": {
+         "co": [
+            {
+               "na": [
+                  {
+                     "_f": "a/Aagedal:Jan_=Oslash=yvind",
+                     "_pid": "48/1767",
+                     "__text": "Jan Øyvind Aagedal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "a/Agarwal:Jatin",
+                     "_pid": "69/10948",
+                     "__text": "Jatin Agarwal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "a/Aggarwal:Sonal",
+                     "_pid": "128/3143",
+                     "__text": "Sonal Aggarwal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "a/Agrawal:Shriyansh",
+                     "_pid": "216/7229",
+                     "__text": "Shriyansh Agrawal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "a/Ahmad:Shadab",
+                     "_pid": "232/7343",
+                     "__text": "Shadab Ahmad"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "a/Alexander:Roger_T=",
+                     "_pid": "60/5998",
+                     "__text": "Roger T. Alexander"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "a/Asif:Mohammad",
+                     "_pid": "157/9220",
+                     "__text": "Mohammad Asif"
+                  }
+               ],
+               "_c": "-1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Bahulkar:Arun",
+                     "_pid": "07/2190",
+                     "__text": "Arun Bahulkar"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Baudry:Benoit",
+                     "_pid": "57/3320",
+                     "__text": "Benoit Baudry"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Bawa:Nishant",
+                     "_pid": "93/2824",
+                     "__text": "Nishant Bawa"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Bellur:Umesh",
+                     "_pid": "54/4697",
+                     "__text": "Umesh Bellur"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Bhatore:Siddharth",
+                     "_pid": "278/7194",
+                     "__text": "Siddharth Bhatore"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Bieman:James_M=",
+                     "_pid": "b/JamesMBieman",
+                     "__text": "James M. Bieman"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "b/Budhiraja:Amar",
+                     "_pid": "172/7740",
+                     "__text": "Amar Budhiraja"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "c/Cherukupalli:Prabhakar",
+                     "_pid": "158/5798",
+                     "__text": "Prabhakar Cherukupalli"
+                  }
+               ],
+               "_c": "-1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "c/Chetlur:Madhavan",
+                     "_pid": "165/3789",
+                     "__text": "Madhavan Chetlur"
+                  }
+               ],
+               "_c": "2"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "c/Chimalakonda:Sridhar",
+                     "_pid": "76/1783",
+                     "__text": "Sridhar Chimalakonda"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "c/Choppella:Venkatesh",
+                     "_pid": "44/7025",
+                     "__text": "Venkatesh Choppella"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "c/Choudhary:Nurendra",
+                     "_pid": "157/1351",
+                     "__text": "Nurendra Choudhary"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "c/Cleland=Huang:Jane",
+                     "_pid": "c/JaneClelandHuang",
+                     "__text": "Jane Cleland-Huang"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "d/Damaraju:Mrudhivka",
+                     "_pid": "279/3275",
+                     "__text": "Mrudhivka Damaraju"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "d/D=Souza:Meenakshi",
+                     "_pid": "86/10957",
+                     "__text": "Meenakshi D'Souza"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "d/Dutta:Kartik",
+                     "_pid": "193/4957",
+                     "__text": "Kartik Dutta"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "f/Fleurey:Franck",
+                     "_pid": "27/513",
+                     "__text": "Franck Fleurey"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "f/France:Robert_B=",
+                     "_pid": "f/RBFrance",
+                     "__text": "Robert B. France"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "g/Gangadharan:G=_R=",
+                     "_pid": "10/3459",
+                     "__text": "G. R. Gangadharan"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "g/Georg:Geri",
+                     "_pid": "66/1355",
+                     "__text": "Geri Georg"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "g/Ghosh:Sudipto",
+                     "_pid": "g/SudiptoGhosh",
+                     "__text": "Sudipto Ghosh"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "g/Goel:Sameer",
+                     "_pid": "49/809",
+                     "__text": "Sameer Goel"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "g/Grant:Emanuel_S=",
+                     "_pid": "05/1976",
+                     "__text": "Emanuel S. Grant"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "h/Heffner:John",
+                     "_pid": "65/2252",
+                     "__text": "John Heffner"
+                  }
+               ],
+               "_c": "3"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "h/Henderson=Sellers:Brian",
+                     "_pid": "45/5440",
+                     "__text": "Brian Henderson-Sellers"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "i/Indurkhya:Bipin",
+                     "_pid": "92/1551",
+                     "__text": "Bipin Indurkhya"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "i/Iyer:Vivek",
+                     "_pid": "13/6608",
+                     "__text": "Vivek Iyer"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "j/Jayaraman:Mahesh_Babu",
+                     "_pid": "177/5630",
+                     "__text": "Mahesh Babu Jayaraman"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "j/Jesrani:Avni",
+                     "_pid": "258/2268",
+                     "__text": "Avni Jesrani"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Karkare:Amey",
+                     "_pid": "93/511",
+                     "__text": "Amey Karkare"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Karre:Sai_Anirudh",
+                     "_pid": "166/2399",
+                     "__text": "Sai Anirudh Karre"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Khandelwal:Shivam",
+                     "_pid": "175/1082",
+                     "__text": "Shivam Khandelwal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Kim:Dae=Kyoo",
+                     "_pid": "k/DaeKyooKim",
+                     "__text": "Dae-Kyoo Kim"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Kulkarni:Vinay",
+                     "_pid": "51/3678",
+                     "__text": "Vinay Kulkarni"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Kumar:Atul",
+                     "_pid": "67/103",
+                     "__text": "Atul Kumar"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "k/Kuri:Mohit",
+                     "_pid": "291/3748",
+                     "__text": "Mohit Kuri"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "l/Loganathan:Ramesh",
+                     "_pid": "136/4557",
+                     "__text": "Ramesh Loganathan"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Maheshwari:Yogesh",
+                     "_pid": "175/4082",
+                     "__text": "Yogesh Maheshwari"
+                  }
+               ],
+               "_c": "-1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Mathis:Matthew",
+                     "_pid": "00/3534",
+                     "__text": "Matthew Mathis"
+                  }
+               ],
+               "_c": "3"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Mathur:Neeraj",
+                     "_pid": "166/2375",
+                     "__text": "Neeraj Mathur"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/McEachen:Nathan",
+                     "_pid": "08/4728",
+                     "__text": "Nathan McEachen"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Mininni:Pablo_D=",
+                     "_pid": "22/9054",
+                     "__text": "Pablo D. Mininni"
+                  }
+               ],
+               "_c": "1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Mittal:Raghav",
+                     "_pid": "293/6645",
+                     "__text": "Raghav Mittal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Mohalik:Swarup",
+                     "_pid": "54/5083",
+                     "__text": "Swarup Mohalik"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "m/Muenchaisri:Pornsiri",
+                     "_pid": "05/6380",
+                     "__text": "Pornsiri Muenchaisri"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "n/Naik:R=_D=",
+                     "_pid": "175/1052",
+                     "__text": "R. D. Naik"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "n/Nistala:Padmalata",
+                     "_pid": "175/1062",
+                     "__text": "Padmalata Nistala"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "n/Nori:Kesav_V=",
+                     "_pid": "08/11295",
+                     "__text": "Kesav V. Nori"
+                  },
+                  "Kesav Vithal Nori"
+               ],
+               "_c": "0",
+               "_n": "2"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "o/Oostendorp:Herre_van",
+                     "_pid": "13/3988",
+                     "__text": "Herre van Oostendorp"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pal:Rajarshi",
+                     "_pid": "18/2296",
+                     "__text": "Rajarshi Pal"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pandey:Prateek",
+                     "_pid": "36/11103",
+                     "__text": "Prateek Pandey"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Parashar:Dhruv",
+                     "_pid": "291/4268",
+                     "__text": "Dhruv Parashar"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pasala:Anjaneyulu",
+                     "_pid": "69/2282",
+                     "__text": "Anjaneyulu Pasala"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pesaladinne:Pranav_Reddy",
+                     "_pid": "269/6054",
+                     "__text": "Pranav Reddy Pesaladinne"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pichen:Jahfar_Ali",
+                     "_pid": "281/2471",
+                     "__text": "Jahfar Ali Pichen"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pillutla:Ravi_Shankar",
+                     "_pid": "138/2769",
+                     "__text": "Ravi Shankar Pillutla"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Pouquet:Annick",
+                     "_pid": "19/9817",
+                     "__text": "Annick Pouquet"
+                  }
+               ],
+               "_c": "1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Prasad:Gollapudi_V=_R=_J=_Sai",
+                     "_pid": "141/8540",
+                     "__text": "Gollapudi V. R. J. Sai Prasad"
+                  },
+                  "Sai Gollapudi"
+               ],
+               "_c": "0",
+               "_n": "2"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "p/Purandare:Rahul",
+                     "_pid": "65/5006",
+                     "__text": "Rahul Purandare"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Raghavan:K=_V=",
+                     "_pid": "255/0434",
+                     "__text": "K. V. Raghavan"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Raman:Priya",
+                     "_pid": "192/7534",
+                     "__text": "Priya Raman"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Rastogiy:Utkarsh",
+                     "_pid": "157/1289",
+                     "__text": "Utkarsh Rastogiy"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Rathod:Varsha",
+                     "_pid": "50/7507",
+                     "__text": "Varsha Rathod"
+                  }
+               ],
+               "_c": "-1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Ravula:Thirumal",
+                     "_pid": "157/1251",
+                     "__text": "Thirumal Ravula"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Ray:Indrakshi",
+                     "_pid": "r/IndrakshiRay",
+                     "__text": "Indrakshi Ray"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Rizwi:Syed_Mohd_Ali",
+                     "_pid": "281/2532",
+                     "__text": "Syed Mohd Ali Rizwi"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Rosenberg:Duane",
+                     "_pid": "85/9816",
+                     "__text": "Duane Rosenberg"
+                  }
+               ],
+               "_c": "1"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "r/Ryoo:Jungwoo",
+                     "_pid": "93/3986",
+                     "__text": "Jungwoo Ryoo"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/S=:Lalit_Mohan",
+                     "_pid": "192/7511",
+                     "__text": "Lalit Mohan S."
+                  },
+                  "Lalit Mohan Sanagavarapu",
+                  "Lalit Sanagavarapu"
+               ],
+               "_c": "0",
+               "_n": "3"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sarangi:Sourav",
+                     "_pid": "214/8651",
+                     "__text": "Sourav Sarangi"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sarkar:Santonu",
+                     "_pid": "00/1826",
+                     "__text": "Santonu Sarkar"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sengupta:Shubashsis",
+                     "_pid": "214/7087",
+                     "__text": "Shubashsis Sengupta"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Shankar:Anish",
+                     "_pid": "165/3804",
+                     "__text": "Anish Shankar"
+                  }
+               ],
+               "_c": "2"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sharma:Dipti",
+                     "_pid": "245/9432",
+                     "__text": "Dipti Sharma"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sharma:Naveen",
+                     "_pid": "23/1972",
+                     "__text": "Naveen Sharma"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sharma:Richa",
+                     "_pid": "86/11292",
+                     "__text": "Richa Sharma"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Shekar:Shivang",
+                     "_pid": "269/5924",
+                     "__text": "Shivang Shekar"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Shrivastava_0001:Manish",
+                     "_pid": "65/3881",
+                     "__text": "Manish Shrivastava 0001"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Shukla:Anveshi",
+                     "_pid": "202/2542",
+                     "__text": "Anveshi Shukla"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Shukla:Rakesh",
+                     "_pid": "00/6395",
+                     "__text": "Rakesh Shukla"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Simmonds:Devon_M=",
+                     "_pid": "75/1631",
+                     "__text": "Devon M. Simmonds"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Solberg:Arnor",
+                     "_pid": "46/2753",
+                     "__text": "Arnor Solberg"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Song:Eunjee",
+                     "_pid": "02/3874",
+                     "__text": "Eunjee Song"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sripada:Saikrishna",
+                     "_pid": "167/1244",
+                     "__text": "Saikrishna Sripada"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Straw:Greg",
+                     "_pid": "16/877",
+                     "__text": "Greg Straw"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sun_0002:Jing",
+                     "_pid": "s/JingSun2",
+                     "__text": "Jing Sun 0002"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "s/Sureka:Ashish",
+                     "_pid": "s/AshishSureka",
+                     "__text": "Ashish Sureka"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "t/Tsunoda:Masateru",
+                     "_pid": "06/4286",
+                     "__text": "Masateru Tsunoda"
+                  }
+               ],
+               "_c": "0"
+            },
+            {
+               "na": [
+                  {
+                     "_f": "v/Varma:Vasudeva",
+                     "_pid": "03/4045",
+                     "__text": "Vasudeva Varma"
+                  }
+               ],
+               "_c": "0"
+            }
+         ],
+         "_n": "96",
+         "_nc": "4"
+      },
+      "_name": "Y. Raghu Reddy",
+      "_pid": "r/RaghuReddy",
+      "_n": "75"
+   }
+}

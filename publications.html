@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SERC</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles-merged.css">
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+  </head>
+  <body>
+
+    <!-- <div class="probootstrap-search" id="probootstrap-search">
+      <a href="#" class="probootstrap-close js-probootstrap-close"><i class="icon-cross"></i></a>
+      <form action="#">
+        <input type="search" name="s" id="search" placeholder="Search a keyword and hit enter...">
+      </form>
+    </div> -->
+    
+    <div class="probootstrap-page-wrapper">
+      <nav class="navbar navbar-default probootstrap-navbar">
+        <div class="container">
+          <div class="navbar-header">
+            <div class="btn-more js-btn-more visible-xs">
+              <a href="#"><i class="icon-dots-three-vertical "></i></a>
+            </div>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!-- <a  class="navbar-brand" href="index.html">SERC</a> -->
+            <img src="img/IIITH_logo.png" height="100px" width="100px">
+          </div>
+
+          <div id="navbar-collapse" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li class="active"><a href="index.html">Home</a></li>
+              <li class="dropdown">
+                <a href="#" data-toggle="dropdown" class="dropdown-toggle">People</a>
+                <ul class="dropdown-menu">
+                  <li><a href="professors.html">Faculty</a></li>
+                  <li><a href="phd.html">PHD students</a></li>
+                  <li><a href="MS.html">MS students</a></li>
+                  <li><a href="Btech.html">BTech students</a></li>
+                  <!-- <li><a href="gallery.html">Data Sets</a></li> -->
+                  <!-- <li><a href="gallery.html">Posters</a></li> -->
+                   <!-- <li><a href="news.html">News</a></li>  -->
+                </ul>
+              <li><a href="publications.html">Publications</a></li>
+              <li><a href="teachers.html">Focus Area</a></li>
+              <li><a href="events.html">Events</a></li>
+              <li class="dropdown">
+                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Resources</a>
+                <ul class="dropdown-menu">
+                  <li><a href="about.html">Projects</a></li>
+                  <li><a href="courses.html">Teachings</a></li>
+                  <li><a href="course-single.html">Download useful links</a></li>
+                  <li><a href="gallery.html">Demos</a></li>
+                  <li><a href="gallery.html">Data Sets</a></li>
+                  <!-- <li><a href="gallery.html">Posters</a></li> -->
+                   <li><a href="news.html">News</a></li> 
+                   </ul>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      
+      <section class="probootstrap-section probootstrap-section-colored">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 text-left section-heading probootstrap-animate">
+              <h1>Publications</h1>
+            </div>
+          </div>
+        </div>
+      </section>
+      <button id="getText">Get Publications</button>
+      <button id="getPubByName">Get Publications by name</button>
+      <button id="getPubByYear">Get Publications by year</button>
+      <!-- <button id="getUsers">Get Publications</button> -->
+      <div id="output"></div>
+      <div id="output2"></div>
+      <div id="output3"></div>
+      
+      <script>
+
+        document.getElementById('getText').addEventListener('click', getText);
+        document.getElementById('getText').addEventListener('click', getUsers);
+        document.getElementById("getPubByName").addEventListener('click', getPubByName);
+        document.getElementById("getPubByYear").addEventListener('click', getPubByYear);
+
+      //   function getText(){
+      //   fetch('public.txt')
+      //   .then(function(res){
+      //     return res.text();
+      //   })
+      //   .then(function(data){
+      //     document.getElementById('output').innerHTML=data;
+      //   })
+      // }
+      function getUsers(){
+        fetch('https://dblp.org/search/publ/api?q=iiith&format=json')
+        .then((res) => res.json())
+        .then((data) => {
+          let output = '<h2>Publications</h2>';
+          // console.log(data);
+          // data = JSON.stringify(data);
+          // data = JSON.parse(data);
+          // console.log(data);
+          Object.keys(data).forEach(function(user){
+            // console.log(user["query"]);
+            console.log(data.result.hits.hit[0].info.authors.author[0]);
+            output += `
+            <ol>
+              <li><b>Title:</b> ${data.result.hits.hit[0].info.title}</li>
+              
+                <ul>
+                <li><h4> Authors </h4></li>
+                <ol>
+                  <li>${data.result.hits.hit[0].info.authors.author[0].text}</li>
+                  <li>${data.result.hits.hit[0].info.authors.author[1].text}</li>
+                  <li>${data.result.hits.hit[0].info.authors.author[2].text}</li>
+                </ol>
+                <li><a href =  ${data.result.hits.hit[0].info.url}>DBLP Link</a></li></li>
+                
+                </ul>
+                <li><b>Title:</b> ${data.result.hits.hit[1].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[1].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[1].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[1].info.authors.author[2].text}</li>
+              </ol>
+              <li><a href =  ${data.result.hits.hit[1].info.url}>DBLP Link</a></li></li>
+              </ul>
+              <li><b>Title:</b> ${data.result.hits.hit[2].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[2].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[2].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[2].info.authors.author[2].text}</li>
+              </ol>
+              <li><a href =  ${data.result.hits.hit[2].info.url}>DBLP Link</a></li></li>
+              </ul>
+              <li><b>Title:</b> ${data.result.hits.hit[3].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[3].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[3].info.authors.author[1].text}</li>
+              </ol>
+              <li><a href =  ${data.result.hits.hit[3].info.url}>DBLP Link</a></li></li>
+              </ul>
+              <li><b>Title:</b> ${data.result.hits.hit[4].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[4].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[4].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[4].info.authors.author[2].text}</li>
+
+                </ol>
+              <li><a href =  ${data.result.hits.hit[4].info.url}>DBLP Link</a></li></li>
+              </ul>
+              <li><b>Title:</b> ${data.result.hits.hit[5].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[5].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[5].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[5].info.authors.author[2].text}</li>
+
+                </ol>
+              <li><a href =  ${data.result.hits.hit[5].info.url}>DBLP Link</a></li></li>
+              </ul>
+             
+              <li><b>Title:</b> ${data.result.hits.hit[7].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[7].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[7].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[7].info.authors.author[2].text}</li>
+
+                </ol>
+              <li><a href =  ${data.result.hits.hit[7].info.url}>DBLP Link</a></li></li>
+              </ul>
+              <li><b>Title:</b> ${data.result.hits.hit[8].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[8].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[8].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[8].info.authors.author[2].text}</li>
+
+                </ol>
+              <li><a href =  ${data.result.hits.hit[8].info.url}>DBLP Link</a></li></li>
+              </ul>
+              <li><b>Title:</b> ${data.result.hits.hit[9].info.title}</li>
+              
+              <ul>
+              <li><h4> Authors </h4></li>
+              <ol>
+                <li>${data.result.hits.hit[9].info.authors.author[0].text}</li>
+                <li>${data.result.hits.hit[9].info.authors.author[1].text}</li>
+                <li>${data.result.hits.hit[9].info.authors.author[2].text}</li>
+
+                </ol>
+              <li><a href =  ${data.result.hits.hit[9].info.url}>DBLP Link</a></li></li>
+              </ul>
+             
+             
+              
+            </ol>
+      
+        
+              `
+          });
+          document.getElementById('output').innerHTML=output;
+        })
+      }
+      // function getPubByName(){
+      //   fetch('https://api.jsonbin.io/b/61665d13aa02be1d44589af9')
+      //   .then((res) => res.json())
+      //   .then((data) => {
+      //     let output = '<h2>Publications</h2>';
+      //     // console.log(data);
+      //     // data = JSON.stringify(data);
+      //     // data = JSON.parse(data);
+      //     // console.log(data);
+      //     Object.keys(data).forEach(function(user){
+      //       // console.log(user["query"]);
+      //       console.log(data.dblpperson);
+          //   output += `
+          //   <ol>
+          //     <li><b>Title:</b> ${data.result.hits.hit[0].info.title}</li>
+              
+          //       <ul>
+          //       <li><h4> Authors </h4></li>
+          //       <ol>
+          //         <li>${data.result.hits.hit[0].info.authors.author[0].text}</li>
+          //         <li>${data.result.hits.hit[0].info.authors.author[1].text}</li>
+          //         <li>${data.result.hits.hit[0].info.authors.author[2].text}</li>
+          //       </ol>
+          //       <li><a href =  ${data.result.hits.hit[0].info.url}>DBLP Link</a></li></li>
+                
+          //       </ul>
+          //       <li><b>Title:</b> ${data.result.hits.hit[1].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[1].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[1].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[1].info.authors.author[2].text}</li>
+          //     </ol>
+          //     <li><a href =  ${data.result.hits.hit[1].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+          //     <li><b>Title:</b> ${data.result.hits.hit[2].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[2].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[2].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[2].info.authors.author[2].text}</li>
+          //     </ol>
+          //     <li><a href =  ${data.result.hits.hit[2].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+          //     <li><b>Title:</b> ${data.result.hits.hit[3].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[3].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[3].info.authors.author[1].text}</li>
+          //     </ol>
+          //     <li><a href =  ${data.result.hits.hit[3].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+          //     <li><b>Title:</b> ${data.result.hits.hit[4].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[4].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[4].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[4].info.authors.author[2].text}</li>
+
+          //       </ol>
+          //     <li><a href =  ${data.result.hits.hit[4].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+          //     <li><b>Title:</b> ${data.result.hits.hit[5].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[5].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[5].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[5].info.authors.author[2].text}</li>
+
+          //       </ol>
+          //     <li><a href =  ${data.result.hits.hit[5].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+             
+          //     <li><b>Title:</b> ${data.result.hits.hit[7].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[7].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[7].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[7].info.authors.author[2].text}</li>
+
+          //       </ol>
+          //     <li><a href =  ${data.result.hits.hit[7].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+          //     <li><b>Title:</b> ${data.result.hits.hit[8].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[8].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[8].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[8].info.authors.author[2].text}</li>
+
+          //       </ol>
+          //     <li><a href =  ${data.result.hits.hit[8].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+          //     <li><b>Title:</b> ${data.result.hits.hit[9].info.title}</li>
+              
+          //     <ul>
+          //     <li><h4> Authors </h4></li>
+          //     <ol>
+          //       <li>${data.result.hits.hit[9].info.authors.author[0].text}</li>
+          //       <li>${data.result.hits.hit[9].info.authors.author[1].text}</li>
+          //       <li>${data.result.hits.hit[9].info.authors.author[2].text}</li>
+
+          //       </ol>
+          //     <li><a href =  ${data.result.hits.hit[9].info.url}>DBLP Link</a></li></li>
+          //     </ul>
+             
+             
+              
+          //   </ol>
+      
+        
+          //     `
+          // });
+          // document.getElementById('output').innerHTML=output;
+        // })
+      // }
+      function getPubByName(){
+      let req = new XMLHttpRequest();
+
+        req.onreadystatechange = () => {
+        if (req.readyState == XMLHttpRequest.DONE) {
+        // console.log(req.responseText);
+        data = req.responseText;
+        data = JSON.parse(data);
+
+        console.log(data.dblpperson.r[0].inproceedings);
+            // console.log(data[3]);
+        
+            output += `
+            <h3>Author:- ${data.dblpperson.person.author[0].__text}</h3>
+            <ol>
+              <li>${data.dblpperson.r[0].inproceedings.title}</li>
+                <ul>
+                  <li> <a href="${data.dblpperson.r[0].inproceedings.url}">DBLP Link</a></li>
+                </ul>
+                <li>${data.dblpperson.r[1].inproceedings.title}</li>
+                <ul>
+                  <li> <a href="${data.dblpperson.r[1].inproceedings.url}">DBLP Link</a></li>
+                </ul>
+                <li>${data.dblpperson.r[2].inproceedings.title}</li>
+                <ul>
+                  <li> <a href="${data.dblpperson.r[2].inproceedings.url}">DBLP Link</a></li>
+                </ul>
+                <li>${data.dblpperson.r[4].inproceedings.title}</li>
+                <ul>
+                  <li> <a href="${data.dblpperson.r[4].inproceedings.url}">DBLP Link</a></li>
+                </ul>
+                <li>${data.dblpperson.r[6].inproceedings.title}</li>
+                <ul>
+                  <li> <a href="${data.dblpperson.r[6].inproceedings.url}">DBLP Link</a></li>
+                </ul>
+                </ol>
+                <ol>
+              <h3>Author:- Raghu Reddy</h3>  
+                  <li>Machine learning techniques for credit risk evaluation: a systematic literature review Journal of Banking and Financial Technology</li>  
+                  <ul>
+                    <li><a href="clicl here">DBLP Link</a></li>
+                   </ul> 
+                  </li>
+                    <li>"Understanding usability evaluation setup for VR products in industry: a review study"</li>
+                    <ul>
+                    <li><a href="clicl here">DBLP Link</a></li>
+                    </ul>
+                  </li>
+                <li>KIET Framework for Cloud Adoption: Indian Banking Case Study</li>
+                  <ul>
+                    <li><a href="clicl here">DBLP Link</a></li>
+                    </ul>
+                  </li>
+            </ol>
+            ` 
+            document.getElementById('output2').innerHTML=output;
+
+            }
+      };
+
+      
+
+          req.open("GET", "https://api.jsonbin.io/b/61665d13aa02be1d44589af9", true);
+          req.setRequestHeader("Content-Type", "application/json");  
+          req.setRequestHeader("secret-key", "$2b$10$7b2Ocefq0TtFF6Rhs0yMauDY0J3otT1eVkoJPx7U1iVldpCzQdf1m");
+          req.send();
+      }
+      function getPubByYear(){
+        output+= `
+          <h3> 2021 </h3>
+          <ol>
+            <li><b>Title:</b> Understanding Software Quality Metrics for Virtual Reality Products - A Mapping Study.</li>
+            <ul>
+            <li>Authors</li>
+              <ul>
+                <li>Mohit Kuri</li>
+                <li>Sai Anirudh Karre</li>
+                <li>Y. Raghu Reddy</li>
+              </ul>
+            <li><a href="https://doi.org/10.1145/3452383.3452391">DBLP Link</a>
+            </ul>
+            <li><b>Title:</b> Using project-based approach to teach design patterns: An Experience Report.</li>
+            <ul>
+            <li>Authors</li>
+              <ul>
+                <li>Lalit Mohan Sanagavarapu</li>
+                <li>Sai Anirudh Karre</li>
+                <li>Y. Raghu Reddy</li>
+              </ul>
+              <li><a href="https://doi.org/10.1145/3452383.3452399">DBLP Link</a>
+
+            </ul>
+            
+          </ol>
+
+          <h3> 2020</h3>
+          <ol>
+            <li><b>Title:</b> A report on 1st Software Engineering Research in India Update Meeting (SERI 2019)</li>
+            <ul>
+            <li>Authors</li>
+              <ul>
+                <li>Lalit Mohan S.</li>
+                <li>Sai Anirudh Karre</li>
+                <li>Y. Raghu Reddy</li>
+              </ul>
+            <li><a href="https://doi.org/10.1145/3356773.3356805">DBLP Link</a>
+            </ul>
+            <li><b>Title:</b> Is Virtual Reality Product Development different?: An Empirical Study on VR Product Development Practices.</li>
+            <ul>
+            <li>Authors</li>
+              <ul>
+                <li>Neeraj Mathur</li>
+                <li>Sai Anirudh Karre</li>
+                <li>Y. Raghu Reddy</li>
+              </ul>
+              <li><a href="https://doi.org/10.1145/3299771.3299772">DBLP Link</a>
+
+            </ul>
+            
+          </ol>
+            `
+            document.getElementById('output3').innerHTML=output;
+
+      }
+
+
+      </script>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      
+
+    <script src="js/scripts.min.js"></script>
+    <script src="js/main.min.js"></script>
+    <script src="js/custom.js"></script>
+   
+  </body>
+</html>
